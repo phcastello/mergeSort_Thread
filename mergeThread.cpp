@@ -82,7 +82,7 @@ void escreverArquivo(const std::string& nomeArquivo, const std::vector<int> &vet
 }
 
 int main() {
-    std::string arquivoLeitura = "contagem.txt";
+    std::string arquivoLeitura = "listaTesteDesordenada.txt";
 
     std::string diretorio = "arquivosSaidas/";
     std::string nomeBase = "contagemT";
